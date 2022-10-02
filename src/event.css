@@ -1,0 +1,70 @@
+.landing-main{
+   
+    display: flex;
+    height: 100vh;
+    /* width: 100vw;  */
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 15vh !important; */
+}
+
+.landing-image img{
+    height: 70vh;
+    width: auto;
+}
+
+.eventName{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    color: #240D57;
+
+}
+
+.hostName{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 10px;
+    color: #828282;
+
+}
+.text-main2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dataNameicon{
+    display: inline-block;
+}
+.dataNameicon{
+    transform: scale(1.4);
+}
+.datemain{
+    display: inline-block;
+    padding-left: 20px;
+}
+.dateName{
+    margin-top: 30px;
+}
+.startDate{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+color: #240D57;
+}
+.startDate2{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #4F4F4F;
+
+}

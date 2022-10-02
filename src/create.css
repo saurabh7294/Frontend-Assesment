@@ -1,0 +1,32 @@
+.mainDiv{
+    position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border: 2px solid #240D57;
+  border-radius: 10px;
+}
+label{
+    margin-top: 10px;
+}
+.mainDiv1{
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+}
+.button-create{
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    max-width: 100%;
+    margin-left: auto; 
+    margin-right: 0;
+    margin-top: 20px;
+}
+.button-create div{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+
+}
